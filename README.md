@@ -1,3 +1,3 @@
-# practice5-ssh-ops-agent
+# commit_message_rules
 
-Claude Skillsによる自動同柟ワークフローのテストに使用します。最新のマスターではありません。
+コミットメッセージのルールやサンプル
